@@ -1,0 +1,417 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	width: 1920px;
+	height: 1180px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+
+/*    페이지 전체 영역 구현   */
+/*    페이지 전체 영역 구현   */
+/*    페이지 전체 영역 구현   */
+/*    페이지 전체 영역 구현   */
+/*    페이지 전체 영역 구현   */
+
+
+/*  profile 1 */
+
+#prof {
+	fill: rgba(232,240,242,1);
+}
+.prof {
+	position: absolute;
+	overflow: visible;
+	width: 744px;
+	height: 1080px;
+	left: 0px;
+	top: 0px;
+}
+
+#Lee {
+	left: 88px;
+	top: 112px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	color: rgba(0,0,0,1);
+}
+
+#Min {
+	left: 88px;
+	top: 199px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 56px;
+	color: rgba(0,0,0,1);
+}
+#Seok {
+	left: 88px;
+	top: 269px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 56px;
+	color: rgba(0,0,0,1);
+}
+
+
+#Motion_Graphic_Designer_Video_ {
+	left: 88px;
+	top: 400px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+
+
+/*  profile 1 */
+
+
+
+/*	Education 2	*/
+
+#edu {
+	fill: rgba(57,162,219,1);
+}
+.edu {
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 480px;
+	left: 744px;
+	top: 0px;
+}
+
+#Education {
+	left: 791px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+
+#Enrolled_graduate {
+	left: 791px;
+	top: 154px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+
+/*	Education 2	*/
+
+/*   ArtWork 3   */
+
+#Art {
+	fill: rgba(162,219,250,1);
+}
+.Art {
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 612px;
+	left: 744px;
+	top: 480px;
+}
+#ArtWork {
+	left: 791px;
+	top: 517px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Poster_Video {
+	left: 791px;
+	top: 590px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+
+/*   ArtWork 3   */
+
+
+/* Task Status 4 */
+
+#task{
+	fill: rgba(162,219,250,1);
+}
+.task {
+	position: absolute;
+	overflow: visible;
+	width: 720px;
+	height: 480px;
+	left: 1200px;
+	top: 0px;
+}
+
+/* 영상 구현 */
+/* 영상 구현 */
+
+/*  720 * 480  */
+
+
+#Task_Status {
+	left: 1591px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(255,255,255,1);
+}
+
+
+#Art_Work_Task_ {
+	left: 1705px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+
+
+
+/* Task Status 4 */
+
+
+/*     skill  5   */
+
+
+#Skill_rect {
+	fill: rgba(28,124,177,1);
+}
+.skill {
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	height: 600px;
+	left: 1200px;
+	top: 480px;
+}
+
+
+#Skill {
+	left: 1236px;
+	top: 517px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+
+#Tool_Skill {
+	left: 1236px;
+	top: 590px;
+	position: absolute;
+	overflow: visible;
+	width: 78px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+
+/*  skill  5   */
+
+
+/*   Link 6   */
+
+#link {
+	fill: rgba(5,55,66,1);
+}
+.link {
+	position: absolute;
+	overflow: visible;
+	width: 374px;
+	height: 600px;
+	left: 1546px;
+	top: 480px;
+}
+
+
+#Sns {
+	left: 1589px;
+	top: 590px;
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Youtube {
+	left: 1589px;
+	top: 617px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Github {
+	left: 1589px;
+	top: 644px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+
+
+#Link {
+	left: 1587px;
+	top: 517px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+
+/*   Link 6   */
+
+/*  footer */
+
+#footer {
+	fill: rgba(0,0,0,1);
+}
+.footer {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 1080px;
+}
+
+
+#Copyright_2021_Lee_min_seok_Al {
+	left: 702px;
+	top: 1114px;
+	position: absolute;
+	overflow: visible;
+	width: 562px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+
+
+/*  footer */
